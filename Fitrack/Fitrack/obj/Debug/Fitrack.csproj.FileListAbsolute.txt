@@ -1,0 +1,10 @@
+C:\csharp\Projects\Fitrack\Fitrack\bin\Debug\Fitrack.exe.config
+C:\csharp\Projects\Fitrack\Fitrack\bin\Debug\Fitrack.exe
+C:\csharp\Projects\Fitrack\Fitrack\bin\Debug\Fitrack.pdb
+C:\csharp\Projects\Fitrack\Fitrack\obj\Debug\Fitrack.FitrackForm.resources
+C:\csharp\Projects\Fitrack\Fitrack\obj\Debug\Fitrack.Properties.Resources.resources
+C:\csharp\Projects\Fitrack\Fitrack\obj\Debug\Fitrack.csproj.GenerateResource.cache
+C:\csharp\Projects\Fitrack\Fitrack\obj\Debug\Fitrack.csproj.CoreCompileInputs.cache
+C:\csharp\Projects\Fitrack\Fitrack\obj\Debug\Fitrack.exe
+C:\csharp\Projects\Fitrack\Fitrack\obj\Debug\Fitrack.pdb
+C:\csharp\Projects\Fitrack\Fitrack\obj\Debug\Fitrack.csproj.AssemblyReference.cache
