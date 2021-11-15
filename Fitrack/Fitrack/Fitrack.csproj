@@ -55,13 +55,46 @@
     <Compile Include="FitrackForm.Designer.cs">
       <DependentUpon>FitrackForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="NutritionTrackerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NutritionTrackerForm.Designer.cs">
+      <DependentUpon>NutritionTrackerForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
+    <Compile Include="ProgressTrackerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgressTrackerForm.Designer.cs">
+      <DependentUpon>ProgressTrackerForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SleepTrackerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SleepTrackerForm.Designer.cs">
+      <DependentUpon>SleepTrackerForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="TitleBarButton.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="WeightTrackerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeightTrackerForm.Designer.cs">
+      <DependentUpon>WeightTrackerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkoutTrackerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkoutTrackerForm.Designer.cs">
+      <DependentUpon>WorkoutTrackerForm.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="FitrackForm.resx">
       <DependentUpon>FitrackForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NutritionTrackerForm.resx">
+      <DependentUpon>NutritionTrackerForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

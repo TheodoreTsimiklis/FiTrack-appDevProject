@@ -77,5 +77,107 @@ namespace Fitrack
         {
             animationTimer.Animate();
         }
+
+        //make a function to remove repeated code, for now is placeholder code, same for the buttons on the main form
+
+        private void workoutTrackerButton_Click(object sender, EventArgs e)
+        {
+            WorkoutTrackerForm newMDIChild = new WorkoutTrackerForm();
+            // so someone cant open multiple forms
+            if (this.MdiChildren.Count() == 0)
+            {
+                newMDIChild.MdiParent = this;
+                newMDIChild.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+                newMDIChild.Show();
+            }
+            else
+            {
+                foreach (Form form in this.MdiChildren)
+                {
+                    if (form.Name == "WorkoutTrackerForm")
+                        return;
+                }
+            }
+        }
+
+        private void progressTrackerButton_Click(object sender, EventArgs e)
+        {
+            ProgressTrackerForm newMDIChild = new ProgressTrackerForm();
+            // so someone cant open multiple forms
+            if (this.MdiChildren.Count() == 0)
+            {
+                newMDIChild.MdiParent = this;
+                newMDIChild.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+                newMDIChild.Show();
+            }
+            else
+            {
+                foreach (Form form in this.MdiChildren)
+                {
+                    if (form.Name == "ProgressTrackerForm")
+                        return;
+                }
+            }
+        }
+
+        private void nutritionTrackerButton_Click(object sender, EventArgs e)
+        {
+            NutritionTrackerForm newMDIChild = new NutritionTrackerForm();
+            // so someone cant open multiple forms
+            if (this.MdiChildren.Count() == 0)
+            {
+                newMDIChild.MdiParent = this;
+                newMDIChild.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+                newMDIChild.Show();
+            }
+            else
+            {
+                foreach (Form form in this.MdiChildren)
+                {
+                    if (form.Name == "NutritionTrackerForm")
+                        return;
+                }
+            }
+        }
+
+        private void weightTrackerButton_Click(object sender, EventArgs e)
+        {
+            WeightTrackerForm newMDIChild = new WeightTrackerForm();
+            // so someone cant open multiple forms
+            if (this.MdiChildren.Count() == 0)
+            {
+                newMDIChild.MdiParent = this;
+                newMDIChild.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+                newMDIChild.Show();
+            }
+            else
+            {
+                foreach (Form form in this.MdiChildren)
+                {
+                    if (form.Name == "WeightTrackerForm")
+                        return;
+                }
+            }
+        }
+
+        private void sleepTrackerButton_Click(object sender, EventArgs e)
+        {
+            SleepTrackerForm newMDIChild = new SleepTrackerForm();
+            // so someone cant open multiple forms
+            if (this.MdiChildren.Count() == 0)
+            {
+                newMDIChild.MdiParent = this;
+                newMDIChild.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+                newMDIChild.Show();
+            }
+            else
+            {
+                foreach (Form form in this.MdiChildren)
+                {
+                    if (form.Name == "SleepTrackerForm")
+                        return;
+                }
+            }
+        }
     }
 }

@@ -8,3 +8,14 @@ C:\csharp\Projects\Fitrack\Fitrack\obj\Debug\Fitrack.csproj.CoreCompileInputs.ca
 C:\csharp\Projects\Fitrack\Fitrack\obj\Debug\Fitrack.exe
 C:\csharp\Projects\Fitrack\Fitrack\obj\Debug\Fitrack.pdb
 C:\csharp\Projects\Fitrack\Fitrack\obj\Debug\Fitrack.csproj.AssemblyReference.cache
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\bin\Debug\Fitrack.exe.config
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\bin\Debug\Fitrack.exe
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\bin\Debug\Fitrack.pdb
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.csproj.AssemblyReference.cache
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.FitrackForm.resources
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.Properties.Resources.resources
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.csproj.GenerateResource.cache
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.csproj.CoreCompileInputs.cache
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.exe
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.pdb
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.NutritionTrackerForm.resources
