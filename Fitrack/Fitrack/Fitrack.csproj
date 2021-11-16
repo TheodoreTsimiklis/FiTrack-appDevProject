@@ -96,6 +96,9 @@
     <EmbeddedResource Include="NutritionTrackerForm.resx">
       <DependentUpon>NutritionTrackerForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ProgressTrackerForm.resx">
+      <DependentUpon>ProgressTrackerForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -106,6 +109,15 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="SleepTrackerForm.resx">
+      <DependentUpon>SleepTrackerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeightTrackerForm.resx">
+      <DependentUpon>WeightTrackerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkoutTrackerForm.resx">
+      <DependentUpon>WorkoutTrackerForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

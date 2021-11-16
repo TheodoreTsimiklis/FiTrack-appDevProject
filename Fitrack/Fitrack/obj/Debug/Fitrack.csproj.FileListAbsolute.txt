@@ -19,3 +19,7 @@ C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.c
 C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.exe
 C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.pdb
 C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.NutritionTrackerForm.resources
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.ProgressTrackerForm.resources
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.SleepTrackerForm.resources
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.WeightTrackerForm.resources
+C:\Users\Theod\Desktop\FiTrack-appDevProject\Fitrack\Fitrack\obj\Debug\Fitrack.WorkoutTrackerForm.resources
